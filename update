@@ -1,0 +1,4 @@
+content feature version
+echo content > new-feature.go
+git commit -m update feature version
+echo content > update feature version
